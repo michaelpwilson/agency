@@ -2,14 +2,21 @@
   "name": "store",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "start": "npx nx serve web"
+  },
   "private": true,
   "dependencies": {
     "@nrwl/next": "15.9.2",
     "next": "13.1.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "tslib": "^2.3.0"
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.10.0",
+    "recharts": "^2.5.0",
+    "redux": "^4.2.1",
+    "tslib": "^2.3.0",
+    "yup": "^1.1.0"
   },
   "devDependencies": {
     "@babel/preset-react": "^7.14.5",

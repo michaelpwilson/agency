@@ -1,0 +1,24 @@
+$website-background-color: #202020;
+$website-font-family: 'Poppins';
+$website-heading-gradient-color-1: #F57170;
+$website-heading-gradient-color-2: #10DDC2;
+
+.section {
+    padding: 2.5rem 0;
+  
+    h1, h3 {
+      margin-top: 0;
+    }
+  
+    h4 {
+      margin-bottom: 0;
+    }
+}
+
+.banner {
+  &__title {
+    text-align: center;
+    font-size: 4.45rem;
+    margin-bottom: 0;
+  }
+}

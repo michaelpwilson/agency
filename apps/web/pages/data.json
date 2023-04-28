@@ -1,0 +1,159 @@
+{
+    "Services Required": {
+      "question": "What services do you require?",
+      "options": [
+        {
+            "id": "1",
+          "answer": "Web Development",
+          "hours": 60,
+          "price": 3900
+        },
+        {
+            "id": "2",
+          "answer": "App Development",
+          "hours": 120,
+          "price": 7800
+        }
+      ]
+    },
+    "Web Development Needs": {
+      "question": "What type of Web Development do you need?",
+      "options": [
+        {
+            "id": "3",
+          "answer": "Brochure Website",
+          "hours": 40,
+          "price": 2600
+        },
+        {
+            "id": "4",
+          "answer": "E-commerce Website",
+          "hours": 80,
+          "price": 5200
+        },
+        {
+            "id": "5",
+          "answer": "Social Media Website",
+          "hours": 100,
+          "price": 6500
+        },
+        {
+            "id": "6",
+          "answer": "Educational Website",
+          "hours": 120,
+          "price": 7800
+        },
+        {
+            "id": "7",
+          "answer": "News Website",
+          "hours": 80,
+          "price": 5200
+        },
+        {
+            "id": "8",
+          "answer": "Entertainment Website",
+          "hours": 80,
+          "price": 5200
+        },
+        {
+            "id": "9",
+          "answer": "Travel Website",
+          "hours": 120,
+          "price": 7800
+        }
+      ]
+    },
+    "App Development Needs": {
+      "question": "What type of App Development do you need?",
+      "options": [
+        {
+            "id": "10",
+          "answer": "Social Networking App",
+          "hours": 160,
+          "price": 10400
+        },
+        {
+            "id": "11",
+          "answer": "Entertainment App",
+          "hours": 120,
+          "price": 7800
+        },
+        {
+            "id": "12",
+          "answer": "Educational App",
+          "hours": 200,
+          "price": 13000
+        },
+        {
+            "id": "13",
+          "answer": "Productivity App",
+          "hours": 80,
+          "price": 5200
+        },
+        {
+            "id": "14",
+          "answer": "E-commerce App",
+          "hours": 160,
+          "price": 10400
+        },
+        {
+            "id": "15",
+          "answer": "Travel App",
+          "hours": 120,
+          "price": 7800
+        },
+        {
+            "id": "16",
+          "answer": "Health and Fitness App",
+          "hours": 120,
+          "price": 7800
+        },
+        {
+            "id": "17",
+          "answer": "News and Information App",
+          "hours": 80,
+          "price": 5200
+        },
+        {
+            "id": "18",
+          "answer": "Gaming App",
+          "hours": 200,
+          "price": 13000
+        }
+      ]
+    },
+    "App Store Platforms": {
+        "question": "App Store Platforms",
+        "options": [
+            {
+                "id": "19",
+                "answer": "Apple (iOS)",
+                "hours": 200,
+                "price": 13000
+            },
+            {
+                "id": "20",
+                "answer": "Google Play (Android)",
+                "hours": 200,
+                "price": 13000
+            }
+        ]
+    },
+    "UX Design Needs": {
+        "question": "UX Design",
+        "options": [
+            {
+                "id": "20",
+                "answer": "Yes",
+                "hours": 200,
+                "price": 13000
+            },
+            {
+                "id": "21",
+                "answer": "No",
+                "hours": 200,
+                "price": 13000
+            }
+        ]
+    }
+}
