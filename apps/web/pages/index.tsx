@@ -6,9 +6,6 @@ import FormTwo from "./forms/form-two";
 import styles from "./index.module.scss";
 import { useSelector } from "react-redux";
 import FormFive from "./forms/form-five";
-import RecieptPieChart from "../components/pie-chart";
-import RecieptRadialBarChart from "../components/radial-bar-chart";
-import RecieptAreaChart from "../components/area-chart";
 import { InitialState } from "../store";
 
 export enum Sections {
@@ -130,15 +127,6 @@ export function Index() {
               </tr>
             </tbody>
           </table>
-          <div>
-            <RecieptAreaChart />
-          </div>
-          <div>
-            <RecieptPieChart />
-          </div>
-          <div>
-            <RecieptRadialBarChart />
-          </div>
         </div>}
       </div>
     </div>
